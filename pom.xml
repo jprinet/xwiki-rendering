@@ -69,6 +69,8 @@
       org.xwiki.rendering:.*/[${rendering.version}]
     </xwiki.extension.recommendedVersions.rendering>
     <xwiki.extension.recommendedVersions>${xwiki.extension.recommendedVersions.rendering}</xwiki.extension.recommendedVersions>
+
+    <commons.version>${rendering.version}</commons.version>
   </properties>
   <build>
     <pluginManagement>
