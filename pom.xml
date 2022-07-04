@@ -70,7 +70,7 @@
     </xwiki.extension.recommendedVersions.rendering>
     <xwiki.extension.recommendedVersions>${xwiki.extension.recommendedVersions.rendering}</xwiki.extension.recommendedVersions>
 
-    <commons.version>${project.version}</commons.version>
+    <commons.version>14.5</commons.version>
   </properties>
   <build>
     <pluginManagement>
